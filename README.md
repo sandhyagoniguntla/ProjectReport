@@ -1,2 +1,2 @@
 # ProjectReport
-<a href="ReportEx.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="sandhyagoniguntla/ProjectReport/raw/master/ReportEx.pdf" target="_blank">Project Report.</a>
