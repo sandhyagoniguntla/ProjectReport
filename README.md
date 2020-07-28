@@ -1,2 +1,2 @@
 # ProjectReport
-<a href="/ReportEx.pdf" target="_blank">Project Report.</a>
+<embed src="https://github.com/sandhyagoniguntla/ProjectReport/raw/master/ReportEx.pdf" type="application/pdf" />
